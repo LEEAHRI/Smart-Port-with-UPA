@@ -37,8 +37,10 @@ import pandas as pd
 
 # db 연동
 # root:내비번
-engine = create_engine("mysql://new:new@3.20.99.214:3306/loading_DB")
+#engine = create_engine("mysql://new:new@3.20.99.214:3306/loading_DB")
 
+#root-> 사용자 계정 뒤의 
+engine = create_engine("mysql://root:skdlsxls19@127.0.0.1:3306/loading_db")
 db_session = scoped_session(sessionmaker(autocommit=False, autoflush=False, bind=engine))
 
 # db Base 클래스 생성 => DB를 가져올 class를 생성함
@@ -502,4 +504,4 @@ def deck() :
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=4997, debug=True)
+    app.run('localhost', 4997, debug=True)
