@@ -19,7 +19,7 @@ Tessaract API를 이용한 OCR을 사용해 차대번호를 인식, 검수합니
 - 
 
 ## ERD
-![image](https://user-images.githubusercontent.com/71698417/138060635-7e614a91-7896-4a1b-88d6-04c709b0f8cd.png){: width="300" height="100"}
+![image](https://user-images.githubusercontent.com/71698417/138060635-7e614a91-7896-4a1b-88d6-04c709b0f8cd.png){: width="100" height="100"}
 
 
 
