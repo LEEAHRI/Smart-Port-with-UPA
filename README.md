@@ -17,7 +17,7 @@ Tessaract API를 이용한 OCR을 사용해 차대번호를 인식, 분석합니
 ## 프로젝트의 주요 기능
 - 1차,2차 검수원 하역사등록 및 로그인
 - 
-
+ㅇ
 ## ERD
 ![ERD]("./C:/Users/dkfl4/pactory_web_end/ERD.JPG" width="500" height="300")
 
