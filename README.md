@@ -21,7 +21,7 @@ Tessaract API를 이용한 OCR을 사용해 차대번호를 인식, 분석합니
 - 정보공유 dashboard 
 
 ## ERD
-<img src="user-images.githubusercontent.com/71698417/141714063-b42a912e-2fa8-4d70-a5b5-261c146ca2ad.JPG" width="500">
+<img src="https://user-images.githubusercontent.com/71698417/141714314-5a2729b2-c71d-4484-8b28-9e884f470915.JPG" width="500">
 
 
 
